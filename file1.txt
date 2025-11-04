@@ -1,1 +1,3 @@
-edit file 1 di remote
+edit file 1 di myBranch1 lokal 
+
+tambah file 1 di myBranch1 lokal
